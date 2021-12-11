@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <title>Speech Meet Mailer</title>
+  </head>
+  <body>
+    <section>
+      <h1>Noob Ninjas</h1>
+      <h2>Speech Meet Mailer</h2>
+
+      <button style="border: 5px solid pink;"><img style="height: 120px;" src="microphone-svgrepo-com.svg" alt="mic"></button>
+
+      <div>
+        <p style="font-weight: bold; font-size: 30px; text-shadow: 2px 2px black;"> <em class="output-you"></em></p>
+        <p style="font-weight: bold; font-size: 30px; text-shadow: 2px 2px black;"><em class="output-bot"></em></p>
+      </div>
+
+      <form onsubmit="event.preventDefault(); validateMyForm();">
+        <input type="text" id="inputText">
+        <input type="submit"></input>
+      </form>
+
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.3.0/socket.io.js"></script>
+    <script src="js/script.js"></script>
+  </body>
+</html>
