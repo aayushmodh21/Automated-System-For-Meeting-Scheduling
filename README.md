@@ -1,7 +1,5 @@
 # Automated-System-For-Meeting-Scheduling
 
-Download Training Files from here: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
-
 Automated System For Meeting Scheduling is a Web-Application that you can use to send google meeting links to receiver's mail by interacting with AI Bot.
 
 
