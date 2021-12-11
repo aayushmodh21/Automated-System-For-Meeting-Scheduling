@@ -4,7 +4,7 @@ Automated System For Meeting Scheduling is a Web-Application that you can use to
 
 
 **For Speech Recognition, **
-go to code/Speech_Recognition.ipynb
+**go to code/Speech_Recognition.ipynb**
 
 Download Training Files from here: https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/data
 
@@ -18,7 +18,7 @@ Refer to below Images
 **For UI Project of Meeting-Scheduling**
 **go to code/PR_Project_UI**
 
-Run:
+Run below code in terminal:
 
 **npm install .**
 
