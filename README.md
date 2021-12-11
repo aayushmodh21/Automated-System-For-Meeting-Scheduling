@@ -22,11 +22,11 @@ Refer to below Images
 
 Run:
 
-npm install .
+**npm install .**
 
 add dialogflow api credentials
 
-node app.js
+**node app.js**
 
 ![image](https://user-images.githubusercontent.com/62749027/145668492-805a4569-872e-44ac-8700-0c8f2455352a.png)
 
